@@ -2,6 +2,9 @@ Hey, I’m Mohd Yusuf👋
 <!--- - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... --->
+- 🌱 Dendrophile.
+- 😎 Optimistic.
+- ✈️ Wanderlust.
 - 📫 How to reach me mohdyusufr@gmail.com
 
 <!---
