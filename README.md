@@ -2,6 +2,7 @@ Hey, I’m Mohd Yusuf👋
 <!--- - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... --->
+- 💢 Accept every situation with smile.☺️
 - 🌱 Dendrophile.
 - 😎 Optimistic.
 - ✈️ Wanderlust.
