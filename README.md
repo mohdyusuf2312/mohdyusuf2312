@@ -9,7 +9,6 @@
 I am a graduate student currently enrolled in the Masters program in Computer Application at Aligarh Muslim University. I am highly motivated to contribute my expertise to meaningful projects and am eager to find a platform that will support my growth and enable me to excel in my field.
 
 ## Programmer!
-<br>
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### About Me 🚀
@@ -30,6 +29,7 @@ I am a graduate student currently enrolled in the Masters program in Computer Ap
 [<img align="left" alt="Yusuf | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yusuf | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
+<br>
 <br>
 <br>
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=mohdyusuf2312&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Yusuf" width="60%">
