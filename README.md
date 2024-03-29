@@ -21,6 +21,8 @@ I am a graduate student currently enrolled in the Masters program in Computer Ap
 - 📝 Review my [Resume]((https://github.com/mohdyusuf2312/mohdyusuf2312/blob/main/Resume.pdf)) for additional information.
 
 <br>
+<br>
+<br>
 <pre>
  __  __       _         _  __     __               __ 
 |  \/  |     | |       | | \ \   / /              / _|
