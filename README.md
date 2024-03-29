@@ -14,11 +14,11 @@ I am a graduate student currently enrolled in the Masters program in Computer Ap
 ### About Me 🚀
 
 - 🔭 Currently engaging in Competitive Programming activities.
-- 📈 Possess a strong passion for Data Science and Machine Learning.
+- 📈 Possess a strong passion for Software Development and Machine Learning.
 - 💢 Accept every situation with smile.☺️
 - ✈️ Wanderlust.
 - 📫 Contact me via my mohdyusufr@gmail.com
-- 📝 Review my [Resume]((https://github.com/mohdyusuf2312/mohdyusuf2312/blob/main/Resume.pdf)) for additional information.
+- 📝 Review my [Resume](https://github.com/mohdyusuf2312/mohdyusuf2312/blob/main/Resume.pdf) for additional information.
 
 <br>
 <br>
