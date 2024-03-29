@@ -1,4 +1,12 @@
-### Hi there, I'm Mohd Yusuf👋
+<pre>
+ _____                     __  __       _         _  __     __               __ 
+|_   _|                   |  \/  |     | |       | | \ \   / /              / _|
+  | |     __ _ _ __ ___   | \  / | ___ | |__   __| |  \ \_/ /   _ ___ _   _| |_ 
+  | |    / _` | '_ ` _ \  | |\/| |/ _ \| '_ \ / _` |   \   / | | / __| | | |  _|
+ _| |_  | (_| | | | | | | | |  | | (_) | | | | (_| |    | || |_| \__ \ |_| | |  
+|_____|  \__,_|_| |_| |_| |_|  |_|\___/|_| |_|\__,_|    |_| \__,_|___/\__,_|_|  
+                                                                                
+</pre>
 
 ## Programmer!
 
@@ -10,15 +18,12 @@
 - ✈️ Wanderlust.
 - 📫 How to reach me mohdyusufr@gmail.com
 
-<pre>
- __  __       _         _  __     __               __ 
-|  \/  |     | |       | | \ \   / /              / _|
-| \  / | ___ | |__   __| |  \ \_/ /   _ ___ _   _| |_ 
-| |\/| |/ _ \| '_ \ / _` |   \   / | | / __| | | |  _|
-| |  | | (_) | | | | (_| |    | || |_| \__ \ |_| | |  
-|_|  |_|\___/|_| |_|\__,_|    |_| \__,_|___/\__,_|_|  
-                                                      
-</pre>
+<br />
+
+<img src = "https://github-readme-stats.vercel.app/api?username=mohdyusuf2312&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohdyusuf2312&langs_count=8&theme=blue-green">
+
+<br>
 
 ### Connect with me:
 
@@ -27,11 +32,7 @@
 [<img align="left" alt="Yusuf | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yusuf | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-<br />
-<br />
-
-<img src = "https://github-readme-stats.vercel.app/api?username=mohdyusuf2312&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohdyusuf2312&langs_count=8&theme=blue-green">
+<br>
 
 Thanks! :heart:
 
