@@ -32,8 +32,7 @@ I am a graduate student currently enrolled in the Masters program in Computer Ap
 |_|  |_|\___/|_| |_|\__,_|    |_| \__,_|___/\__,_|_|                                                      
 </pre>
 <br>
-<img align="left" src = "https://github-readme-stats.vercel.app/api?username=mohdyusuf2312&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Yusuf" width="60%">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohdyusuf2312&langs_count=8&theme=blue-green" alt="Yusuf" width="37%">
+<img align="left" src = "https://github-readme-stats.vercel.app/api?username=mohdyusuf2312&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Yusuf" width="60%"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohdyusuf2312&langs_count=8&theme=blue-green" alt="Yusuf" width="37%">
 
 ### Connect with me:
 
