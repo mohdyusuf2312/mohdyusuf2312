@@ -33,6 +33,8 @@
 [<img align="left" alt="Yusuf | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br>
+<br>
+<br>
 
 Thanks! :heart:
 
