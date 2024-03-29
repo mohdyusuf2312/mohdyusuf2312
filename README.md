@@ -1,6 +1,6 @@
 <img align="left" width="200" height="200" alt="Yusuf" src="https://user-images.githubusercontent.com/72680045/103229550-485e7900-4959-11eb-95d2-41cdbc444ec0.png" />
 
-### Hello World! This is [Mohd Yusuf](https://mohdyusuf2312.github.io/) 👋
+### Hello World! This is [Mohd Yusuf](https://www.linkedin.com/in/mohdyusuf2312/) 👋
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=mohdyusuf2312&color=blue" alt="Yusuf" /> 
