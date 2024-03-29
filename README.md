@@ -10,7 +10,6 @@ I am a graduate student currently enrolled in the Masters program in Computer Ap
 
 ## Programmer!
 <br>
-<br>
 <img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### About Me 🚀
@@ -32,7 +31,7 @@ I am a graduate student currently enrolled in the Masters program in Computer Ap
 [<img align="left" alt="Yusuf | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br>
-
+<br>
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=mohdyusuf2312&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Yusuf" width="60%">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohdyusuf2312&langs_count=8&theme=blue-green" alt="Yusuf" width="37%">
 
