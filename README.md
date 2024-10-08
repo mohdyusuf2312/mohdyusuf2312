@@ -17,7 +17,7 @@ I am a graduate student currently enrolled in the Masters program in Computer Ap
 - 📈 Possess a strong passion for Software Development and Machine Learning.
 - 💢 Accept every situation with smile.☺️
 - ✈️ Passionate about travel and adventure.
-- 🌐 Website: [mohdyusuf.free.nf](https://mohdyusuf.free.nf/)
+- 🌐 Website: [mohdyusuf.me](https://mohdyusuf.me/)
 - 📫 Contact: mohdyusufr@gmail.com
 - 📝 Review my [Resume](https://github.com/mohdyusuf2312/mohdyusuf2312/blob/main/Resume.pdf) for additional information.
 
