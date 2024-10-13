@@ -34,9 +34,9 @@ I am a graduate student currently enrolled in the Masters program in Computer Ap
 </pre>
 <br>
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=mohdyusuf2312&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Yusuf" width="60%"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mohdyusuf2312&langs_count=8&theme=blue-green" alt="Yusuf" width="37%">
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdyusuf2312&theme=radical" alt="GitHub Streak" />
-</p>
+</p> -->
 ### Connect with me:
 
 [<img align="left" alt="Yusuf | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
