@@ -19,7 +19,7 @@ I am a graduate student currently enrolled in the Masters program in Computer Ap
 - ✈️ Passionate about travel and adventure.
 - 🌐 Website: [mohdyusuf.me](https://mohdyusuf.me/)
 - 📫 Contact: mohdyusufr@gmail.com
-- 📝 Review my [Resume](https://github.com/mohdyusuf2312/mohdyusuf2312/blob/main/Resume.pdf) for additional information.
+- 📝 Review my [Resume](https://github.com/mohdyusuf2312/mohdyusuf2312/blob/main/MohdYusufResume.pdf) for additional information.
 
 <br>
 <br>
